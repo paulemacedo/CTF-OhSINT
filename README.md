@@ -50,5 +50,11 @@
 
  __🚩 Flag: pennYDr0pper.!__
 
- ## Badge Owned
- [<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="170" alt="python logo"/>](https://tryhackme.com/p/paulemacedo)
+## Badge Owned
+[<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="170" alt="python logo"/>](https://tryhackme.com/p/paulemacedo)
+
+## Conclusion
+> [!CAUTION]
+> be carefull with the things you share online
+
+![OWoodflint](https://github.com/paulemacedo/CTF-OhSINT/assets/59907505/4ba750b8-2f78-4453-9e0d-c551f5b8b859)
