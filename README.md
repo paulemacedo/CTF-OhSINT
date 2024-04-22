@@ -12,7 +12,7 @@
 ### 1. What is this user's avatar of?
 
 - First I needed to use exiftools to extract the metadata from the photo provided from the chalenge
-- On the file I could find the user behind the photo and searchon google to see what I would find
+- On the file I could find the user behind the photo and search on google to see what I would find
 - The first result was his Twitter where i finded his profile pic to answer the question<br>
 
  __🚩 Flag: Cat__
