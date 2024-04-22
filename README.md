@@ -51,7 +51,7 @@
  __🚩 Flag: pennYDr0pper.!__
 
 ## Badge Owned
-[<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="170" alt="python logo"/>](https://tryhackme.com/p/paulemacedo)
+[<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="170" alt="python logo"/>](https://tryhackme.com/paulemacedo/badges/ohsint)
 
 ## Conclusion
 > [!CAUTION]
