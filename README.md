@@ -49,3 +49,6 @@
 - At line 273 of his source code you can find the flag
 
  __🚩 Flag: pennYDr0pper.!__
+
+ ## Badge Owned
+ [<img src="https://assets.tryhackme.com/img/badges/ohsint.svg" height="170" alt="python logo"/>](https://tryhackme.com/p/paulemacedo)
